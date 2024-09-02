@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://perci-aceron.github.io/expensetracker-front/",
+  "homepage": "https://perci-aceron.github.io/expensetracker-frontend/",
   "dependencies": {
     "@chakra-ui/icons": "^2.1.1",
     "@chakra-ui/react": "^2.8.2",
