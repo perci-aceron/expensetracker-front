@@ -5,7 +5,8 @@ import TransactionTotal from 'components/MainTransactions/TransactionTotalCompon
 import TransactionHeader from 'components/MainTransactions/TransactionHeaderComponent';
 import TransactionDescription from 'components/MainTransactions/TransactionDescriptionComponent';
 import CategoriesModal from 'components/CategoriesModalComponent';
-export const App = () => {
+
+const App = () => {
   return (
     <>
       <TransactionHeader />
@@ -17,3 +18,5 @@ export const App = () => {
     </>
   );
 };
+
+export default App;
